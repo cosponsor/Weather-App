@@ -1,4 +1,6 @@
-This project was only tested using netlify.
+This project was only tested using netlify. (Which is why the main stuff is handled in the 404.html)
+
+If you would like to change how it is managed, just replace the contents of index.html with the contents of 404.html.
 
 In order to be able to get the weather of a specified location, you would input the url as something like your.site/london.
 
